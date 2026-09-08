@@ -68,6 +68,7 @@ A JavaScript variable can hold 8 types of data, 7 primitive types or an Object t
 
 # Big-O
 It's used to describe time or space complexity of algorithms. It focuses on the growth rate (upper bound), not exact seconds.
+
 - `O(1)` - constant time
     - Same amount of work regardless of input size.
 - `O(n)` - linear time
