@@ -1,4 +1,4 @@
-# Functions, scope & closures
+# Functions, Scope & Closures
 
 ## Function
 - `Parameters` are the names listed in the function definition.

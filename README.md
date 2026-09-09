@@ -68,6 +68,9 @@ A JavaScript variable can hold 8 types of data, 7 primitive types or an Object t
 - Object Protection Methods
 - Prototypes
 
+<br>
+<br>
+
 # Big-O
 It's used to describe time or space complexity of algorithms. It focuses on the growth rate (upper bound), not exact seconds.
 
@@ -79,7 +82,10 @@ It's used to describe time or space complexity of algorithms. It focuses on the 
     - Nested loops often become `O(n²)`.
 - Hash map lookup is usually `O(1)` in average case.
 
-# Functions, scope & closures
+<br>
+<br>
+
+# Functions, Scope & Closures
 
 ## Function
 - `Parameters` are the names listed in the function definition.
@@ -104,3 +110,25 @@ It's used to describe time or space complexity of algorithms. It focuses on the 
 - JavaScript declarations are `hoisted`, initializations are not. Variables declared with `let` and `const` are hoisted to the top of the scope but not initialized. The variable is in a `Temporal Dead Zone` from the start of the scope until it is declared.
 - The `"use strict"` directive is only recognized at the beginning of a script or a function.
 - JavaScript uses `lexical` scope. This connects directly to `closures`.
+
+<br>
+<br>
+
+# Arrays, Objects, Map & Set
+
+## Array
+- Arrays are `objects`.
+- Arrays use `numbered` indexes, objects use `named` indexes.
+- Array.includes() allows to check for `NaN` values. Unlike Array.indexOf().
+- for ... of (loops over `entries`).
+- for ... in (loops over `indexes`).
+
+## Set
+- Set is a collection of `unique` values.
+- Sets are `objects`.
+- `WeakSet` is a collection of values where the values must be `objects`.
+
+## Map
+- Map keys can be of `any data type`.
+- Maps are `objects`.
+- `WeakMap` is a collection of key/value pairs where the keys must be `objects`.
