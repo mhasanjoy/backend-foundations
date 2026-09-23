@@ -133,6 +133,9 @@ It's used to describe time or space complexity of algorithms. It focuses on the 
 - Maps are `objects`.
 - `WeakMap` is a collection of key/value pairs where the keys must be `objects`.
 
+<br>
+<br>
+
 # JavaScript Execution + Synchronous/Asynchronous Thinking
 
 ## Asynchronous Programming
