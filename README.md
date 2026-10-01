@@ -155,6 +155,11 @@ It's used to describe time or space complexity of algorithms. It focuses on the 
 <br>
 <br>
 
+# Promises, async/await & Error Handling
+
+<br>
+<br>
+
 # Git
 
 ### `git init`
@@ -197,3 +202,12 @@ It's used to describe time or space complexity of algorithms. It focuses on the 
 
 ### `git stash`
 - It temporarily put changes aside.
+
+<br>
+<br>
+
+# Objects, References & Mutation
+- Primitive & reference values.
+- Mutation.
+- Shallow copy.
+- `Object.create()`.
