@@ -211,3 +211,8 @@ It's used to describe time or space complexity of algorithms. It focuses on the 
 - Mutation.
 - Shallow copy.
 - `Object.create()`.
+
+<br>
+<br>
+
+# Arrays & Functional Programming
